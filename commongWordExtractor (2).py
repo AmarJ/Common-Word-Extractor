@@ -1,4 +1,3 @@
-#mikeli sucks
 import re
 
 listOfTexts = {"test test testing tester tester test test", "test test testing tester tester test test", "test test testing tester tester test test. The car"}
